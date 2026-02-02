@@ -1,0 +1,1 @@
+This folder will contain the database files (if hosted directly on the application).

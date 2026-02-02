@@ -1,0 +1,1 @@
+This folder will contain middleware to link with other applications and perform application wide pre-processing.
