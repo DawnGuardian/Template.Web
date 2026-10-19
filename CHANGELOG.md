@@ -14,5 +14,6 @@ This file is generated from the commit history -- do not edit it by hand.
 ### Miscellaneous
 
 - Scaffold web application template repository
+- Add the shared .editorconfig
 
 
