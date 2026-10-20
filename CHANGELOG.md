@@ -15,5 +15,7 @@ This file is generated from the commit history -- do not edit it by hand.
 
 - Scaffold web application template repository
 - Add the shared .editorconfig
+- Update the shared .editorconfig
+- Keep CHANGELOG.md out of template exports
 
 

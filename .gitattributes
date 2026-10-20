@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Keep the template's own history out of `git archive` exports, which is how
+# projects are created from it; a new project generates its own changelog.
+CHANGELOG.md export-ignore
